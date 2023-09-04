@@ -1,60 +1,78 @@
 .task1 {
+  display: flex;
 }
 
 .task2 {
   display: flex;
+  justify-content: flex-start;
 }
 
 .task3 {
   display: flex;
+  flex-direction: row-reverse;
 }
 
 .task4 {
   display: flex;
+  flex-direction: column;
 }
 
 .task5 {
   display: flex;
+  flex-direction: column-reverse;
 }
 
 .task6 {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .task7 {
   display: flex;
+  flex-wrap: nowrap ;
 }
 
 .task8 {
   display: flex;
+  flex-wrap: wrap-reverse;
+  
 }
 
 .task9 {
   display: flex;
+  flex-wrap: wrap;
+  flex-direction: row-reverse;
 }
 
 .task10 {
   display: flex;
+  justify-content: flex-start;
 }
 
 .task11 {
   display: flex;
+  justify-content: flex-end;
 }
 
 .task12 {
   display: flex;
+  justify-content: center;
 }
 
 .task13 {
   display: flex;
+  justify-content: space-between;
 }
 
 .task14 {
   display: flex;
+  justify-content: space-around;
 }
 
 .task15 {
   display: flex;
+  justify-content: space-evenly;
 }
 
 .task16 {
